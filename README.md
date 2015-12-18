@@ -1,2 +1,2 @@
-# honghuixie.github.com
+# honghuixie.github.io
 Honghui Xie
